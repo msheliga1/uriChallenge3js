@@ -35,6 +35,7 @@ function generatePassword() {
   return result;
 }  // end function generatePassword
 
+// =================================================================================================
 /* This method gets the characters for the password from the user. (Often numbers, lowercase, etc.) */
 /* It includes error checking, by making sure at least one type of password is selected. */ 
 /* It includes infinite-loop control, which is nice (but is a slight addition to the criteria). */
@@ -96,6 +97,7 @@ function getCharactersToUse() {
   return result;
 }  // end function getCharactersToUse
 
+// ===========================================================================================
 /* This method gets the length of the password from the user, which must be in [8-128].  */
 /* It includes error checking, including for non-numbers and non-integers, but is hardwired to lengths of 8 to 128. */ 
 /* It includes infinite-loop control, which is nice (but is a slight addition to the criteria). */
