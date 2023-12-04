@@ -1,1 +1,151 @@
-{"payload":{"allShortcutsEnabled":true,"fileTree":{"Develop":{"items":[{"name":"index.html","path":"Develop/index.html","contentType":"file"},{"name":"script.js","path":"Develop/script.js","contentType":"file"},{"name":"style.css","path":"Develop/style.css","contentType":"file"}],"totalCount":3},"":{"items":[{"name":"Develop","path":"Develop","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"}],"totalCount":3}},"fileTreeProcessingTime":4.10143,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":240361140,"defaultBranch":"main","name":"friendly-parakeet","ownerLogin":"coding-boot-camp","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2020-02-13T16:06:26.000-05:00","ownerAvatar":"https://avatars.githubusercontent.com/u/17255114?v=4","public":true,"private":false,"isOrgOwned":true},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1620148809.8104472","canEdit":true,"refType":"branch","currentOid":"f69819b275760fba8c1d00ab2038aa0a87410309"},"path":"Develop/script.js","currentUser":{"id":30993559,"login":"msheliga1","userEmail":"msheliga1@gmail.com"},"blob":{"rawLines":["// Assignment code here","","","// Get references to the #generate element","var generateBtn = document.querySelector(\"#generate\");","","// Write password to the #password input","function writePassword() {","  var password = generatePassword();","  var passwordText = document.querySelector(\"#password\");","","  passwordText.value = password;","","}","","// Add event listener to generate button","generateBtn.addEventListener(\"click\", writePassword);"],"stylingDirectives":[[{"start":0,"end":23,"cssClass":"pl-c"}],[],[],[{"start":0,"end":42,"cssClass":"pl-c"}],[{"start":0,"end":3,"cssClass":"pl-k"},{"start":4,"end":15,"cssClass":"pl-s1"},{"start":16,"end":17,"cssClass":"pl-c1"},{"start":18,"end":26,"cssClass":"pl-smi"},{"start":26,"end":27,"cssClass":"pl-kos"},{"start":27,"end":40,"cssClass":"pl-en"},{"start":40,"end":41,"cssClass":"pl-kos"},{"start":41,"end":52,"cssClass":"pl-s"},{"start":52,"end":53,"cssClass":"pl-kos"},{"start":53,"end":54,"cssClass":"pl-kos"}],[],[{"start":0,"end":40,"cssClass":"pl-c"}],[{"start":0,"end":8,"cssClass":"pl-k"},{"start":9,"end":22,"cssClass":"pl-en"},{"start":22,"end":23,"cssClass":"pl-kos"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":25,"end":26,"cssClass":"pl-kos"}],[{"start":2,"end":5,"cssClass":"pl-k"},{"start":6,"end":14,"cssClass":"pl-s1"},{"start":15,"end":16,"cssClass":"pl-c1"},{"start":17,"end":33,"cssClass":"pl-en"},{"start":33,"end":34,"cssClass":"pl-kos"},{"start":34,"end":35,"cssClass":"pl-kos"},{"start":35,"end":36,"cssClass":"pl-kos"}],[{"start":2,"end":5,"cssClass":"pl-k"},{"start":6,"end":18,"cssClass":"pl-s1"},{"start":19,"end":20,"cssClass":"pl-c1"},{"start":21,"end":29,"cssClass":"pl-smi"},{"start":29,"end":30,"cssClass":"pl-kos"},{"start":30,"end":43,"cssClass":"pl-en"},{"start":43,"end":44,"cssClass":"pl-kos"},{"start":44,"end":55,"cssClass":"pl-s"},{"start":55,"end":56,"cssClass":"pl-kos"},{"start":56,"end":57,"cssClass":"pl-kos"}],[],[{"start":2,"end":14,"cssClass":"pl-s1"},{"start":14,"end":15,"cssClass":"pl-kos"},{"start":15,"end":20,"cssClass":"pl-c1"},{"start":21,"end":22,"cssClass":"pl-c1"},{"start":23,"end":31,"cssClass":"pl-s1"},{"start":31,"end":32,"cssClass":"pl-kos"}],[],[{"start":0,"end":1,"cssClass":"pl-kos"}],[],[{"start":0,"end":40,"cssClass":"pl-c"}],[{"start":0,"end":11,"cssClass":"pl-s1"},{"start":11,"end":12,"cssClass":"pl-kos"},{"start":12,"end":28,"cssClass":"pl-en"},{"start":28,"end":29,"cssClass":"pl-kos"},{"start":29,"end":36,"cssClass":"pl-s"},{"start":36,"end":37,"cssClass":"pl-kos"},{"start":38,"end":51,"cssClass":"pl-s1"},{"start":51,"end":52,"cssClass":"pl-kos"},{"start":52,"end":53,"cssClass":"pl-kos"}]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/coding-boot-camp/friendly-parakeet/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/coding-boot-camp/friendly-parakeet/security/dependabot","repoSecurityAndAnalysisPath":"/coding-boot-camp/friendly-parakeet/settings/security_analysis","repoOwnerIsOrg":true,"currentUserCanAdminRepo":false},"displayName":"script.js","displayUrl":"https://github.com/coding-boot-camp/friendly-parakeet/blob/main/Develop/script.js?raw=true","headerInfo":{"blobSize":"421 Bytes","deleteInfo":{"deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"d67f4f5","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fcoding-boot-camp%2Ffriendly-parakeet%2Fblob%2Fmain%2FDevelop%2Fscript.js","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"17","truncatedSloc":"11"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"JavaScript","languageID":183,"large":false,"loggedIn":true,"newDiscussionPath":"/coding-boot-camp/friendly-parakeet/discussions/new","newIssuePath":"/coding-boot-camp/friendly-parakeet/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/coding-boot-camp/friendly-parakeet/blob/main/Develop/script.js","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/coding-boot-camp/friendly-parakeet/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"rawBlobUrl":"https://github.com/coding-boot-camp/friendly-parakeet/raw/main/Develop/script.js","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"coding-boot-camp","repoName":"friendly-parakeet","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":false,"symbols":[{"name":"writePassword","kind":"function","identStart":175,"identEnd":188,"extentStart":166,"extentEnd":324,"fullyQualifiedName":"writePassword","identUtf16":{"start":{"lineNumber":7,"utf16Col":9},"end":{"lineNumber":7,"utf16Col":22}},"extentUtf16":{"start":{"lineNumber":7,"utf16Col":0},"end":{"lineNumber":13,"utf16Col":1}}}]}},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/coding-boot-camp/friendly-parakeet/branches":{"post":"tmh3muqC2HXqOEryH5j3XhiCJkhH57Nvj0D8saaPnEHwr8RvvRoyVie1-EMMVqZsCWZx8vVSKd8Opb7gJM5qZw"},"/repos/preferences":{"post":"hMGi_1bQdDzruXr0mM0QWTPpyTWOTiPVQGzLQBGM4JI_3NasgbGsTtNDbWS5HnZiPV1LWzdRW_WePmBJ9V_HzA"}}},"title":"friendly-parakeet/Develop/script.js at main · coding-boot-camp/friendly-parakeet"}
+// MJS 10.3.23 - URI Challenge 3 - Basic javascript password generator.
+// Code at bottom from URI parakeet account. 
+// Generally this file generates a random password, via the generatePassword function. 
+// Functions getPasswordLength and getCharactersToUse return the number of characters in the password 
+// and the types of characters (lowercase, uppercase, numbers, special) to use in the password. 
+// Error checking is done inside of these 2 functions. There is also protection against 
+// infinite loops.  If too many illegal values are entered, a default is used. 
+// ==================================================================================
+
+// the generatePassword method prompts users for the password length and types of characters to use, then generates 
+// random characters using Math.random to create a random password. 
+// The main output is the generated password, while console.log is used for debugging purposes.  (I think this is a good feature!)
+function generatePassword() {
+  const minLength = 8;    // declare constants first
+  const maxLength = 128;  
+  var result = "Error - Uncalculated";  // then declare variables
+  var resultLog = "";
+
+  var charsInPassword = getPasswordLength(minLength, maxLength);    // includes comprehensive error checking
+  var charactersToUse = getCharactersToUse();                     // includes comprehensive error checking
+  if (charsInPassword <= 0 || charactersToUse.length <= 0) {
+    return result;  // you can never have too much error checking ... well, okay it can interfere with readability.
+  }
+  resultLog = "PwG data: " + charactersToUse.toString() + " Password Length: " + charsInPassword;
+  console.log(resultLog);  /* for debugging */
+  result = ""; 
+  resultLog = "Indices and values: ";
+  for (var i=0; i < charsInPassword; i++) {
+    var index = Math.floor(Math.random() * charactersToUse.length);
+    resultLog += index + "-" + charactersToUse[index] + " ";
+    result += charactersToUse[index];  // repeating code is frowned upon, but I let it slide here.
+  }
+
+  console.log(resultLog);
+  return result;
+}  // end function generatePassword
+
+/* This method gets the characters for the password from the user. (Often numbers, lowercase, etc.) */
+/* It includes error checking, by making sure at least one type of password is selected. */ 
+/* It includes infinite-loop control, which is nice (but is a slight addition to the criteria). */
+function getCharactersToUse() {
+  /* First we set up the charactersArray, which is an array of arrays of characters */
+  const numbsString = "0123456789";
+  const lowerString = "abcdefghijklmnopqrstuvwxyz";
+  const upperString = lowerString.toUpperCase();
+  // There is simply no way I'm allowing a space to be part of a password!!
+  const specsString = '!"#$' + "%&'()*+,-./:;<=>?@[\]^_`{|}~";  // divide into 2 sections to avoid quote issues
+
+  const numbsArray = numbsString.split('');  // split every single character
+  const lowerArray = lowerString.split('');
+  const upperArray = upperString.split('');
+  const specsArray = specsString.split('');
+
+  var charsArray = new Array();
+  charsArray.push(numbsArray);
+  charsArray.push(lowerArray);
+  charsArray.push(upperArray);
+  charsArray.push(specsArray);
+
+  /* the names of the arrays matches up with the above arrays. Of course, once we learn types it */
+  /* would be better to associate the characters and their names in a type ... */
+  var namesArray = ["numbers", "lower case letters", "upper case letters", "special characters"];
+
+  var done = false;
+  var result = new Array();
+  const maxAttempts = 4;  // always good to avoid an infinite loop! - Although very slightly violative of criteria.
+  var attempts = 0;
+  var promptValue = "Unset";
+
+  do {
+    for (var i = 0; i < charsArray.length; i++) {
+      // per StackOverflow no easy cross browser way to change to Yes-No prompts.
+      promptValue = confirm("Do you wish to include " + namesArray[i]);  // returns true or false.
+      // alert("The promptValue is " + promptValue);  
+      if (promptValue) {
+        // it would be simplier to just concatenate the strings, but ... this way good for learning. 
+        result = result.concat(charsArray[i]);
+      }
+    }  // end for each charsArray[]
+    attempts++;
+    if (result.length > 0) {  
+        done = true;
+    }
+``
+    if (!done) {
+        if (attempts < maxAttempts) {
+          alert("You must select at least one type of characters for your password! ");
+        } else {
+          done = true;
+          result = lowerArray;  // if you've failed maxAttempts times, you really need some help! - Use lowercase characters.
+          alert("You've failed miserably for the last time. Result auto-set to " + result);
+        } 
+    }
+  } while (!done) 
+
+  return result;
+}  // end function getCharactersToUse
+
+/* This method gets the length of the password from the user, which must be in [8-128].  */
+/* It includes error checking, including for non-numbers and non-integers, but is hardwired to lengths of 8 to 128. */ 
+/* It includes infinite-loop control, which is nice (but is a slight addition to the criteria). */
+function getPasswordLength(minLength, maxLength) {  // for demo purposes and practcie, use parameters 
+  var done = false;
+  var result = 0;
+  const maxAttempts = 10;  // always good to avoid an infinite loop! - Although very slightly violative of criteria.
+  var attempts = 0;
+  var promptValue = "Unset";
+  do {
+     promptValue = prompt("How many characters in your password (" + minLength + " to " + maxLength + "?"); 
+     attempts++;
+     if (!isNaN(promptValue)) {  // !isNaN = !IsNotANumber = IsANumber
+        result = Number(promptValue);
+        if (Number.isInteger(result)) {
+          if (result >= minLength && result <= maxLength) {
+            done = true;
+         }
+        }
+     }
+
+     if (!done) {
+        if (attempts < maxAttempts) {
+          alert("You must enter a number between " + minLength + " and " + maxLength + ", not " + promptValue);
+        } else {
+          done = true;
+          result = minLength;  // if you've failed maxAttempts times, you really need some help! - Use the default.
+          alert("You've failed miserably for the last time. Result auto-set to " + result);
+        } 
+     }
+  } while (!done) 
+
+  return result;
+}  // end function getPasswordLength
+
+// =================================================================================
+// Code below this line from coding-boot-camp/friendly-parakeet repo. 
+// Get references to the #generate element
+var generateBtn = document.querySelector("#generate");
+
+// Write password to the #password input
+function writePassword() {
+ 
+  var password = generatePassword();
+  console.log("The password is: " + password);
+  var passwordText = document.querySelector("#password");
+
+  passwordText.value = password;
+
+}
+
+// Add event listener to generate button
+generateBtn.addEventListener("click", writePassword);
