@@ -108,7 +108,7 @@ function getPasswordLength(minLength, maxLength) {  // for demo purposes and pra
   var attempts = 0;
   var promptValue = "Unset";
   do {
-     promptValue = prompt("How many characters in your password (" + minLength + " to " + maxLength + "?"); 
+     promptValue = prompt("How many characters in your password (" + minLength + " to " + maxLength + ")?"); 
      attempts++;
      if (!isNaN(promptValue)) {  // !isNaN = !IsNotANumber = IsANumber
         result = Number(promptValue);
