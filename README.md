@@ -24,6 +24,7 @@ Github:
     ... create HTML and CSS ...  
     Commit and push files back to gitHub  
     Deploy code (Settings ... GitHub Pages->main)
+        - Had to move index.html to root (arghhhh!), but still not working (arghhh!)
     Make Sure it Works  
     Insert Screenshot of deployment into readme file.
   
