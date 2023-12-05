@@ -8,7 +8,7 @@ This is the week 3 challenge due 12.04.23.
 
 ## Link to Deployed Webpage
 Here is a link to the deployed github.io site. https://msheliga1.github.io/uriChallenge3js/  
-Link to screenshot of deployed github.io site. https://github.com/msheliga1/uriChallenge3js/blob/main/workingScreenShot.png  
+Link to screenshot of deployed github.io site. ![Challenge 3 GitHub Deployed Screenshot](./workingScreenShot.png) 
 Link to GitHub Repo: https://github.com/msheliga1/uriChallenge3js  
 
 ## Project Goals
